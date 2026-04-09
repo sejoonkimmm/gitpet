@@ -1,0 +1,6 @@
+gitpet
+*.exe
+*.dll
+*.so
+*.dylib
+.DS_Store
