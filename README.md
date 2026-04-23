@@ -4,6 +4,8 @@ A Tamagotchi that lives in your git history.
 
 It hatches when you install it, eats when you commit, evolves the more you code. Stop coding for a week and it dies.
 
+[![Watch the 1-minute demo](docs/thumbnail.jpg)](docs/demo.mp4)
+
 ```
     ,,,          /\_/\        /\_____/\           ★  ✦
    /   \        ( ^.^ )      /  o   o  \     ✧  /\_/\  ★
